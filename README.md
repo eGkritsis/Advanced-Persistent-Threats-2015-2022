@@ -1,7 +1,7 @@
 # Advanced Persistent Threats (2015-2022)
 
 ## Overview
-This repository contains the PDF version of my thesis, titled "Advanced Persistent Threats (2015-2022)
+This repository contains the PDF version of my thesis, titled "Advanced Persistent Threats (2015-2022)"
 
 ## Abstract (EN)
 
