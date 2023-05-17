@@ -1,7 +1,7 @@
 # Advanced Persistent Threats (2015-2022)
 
 ## Overview
-This repository contains the PDF version of my thesis, titled "Advanced Persistent Threats (2015-2022)"
+This repository contains the PDF version of my thesis, titled "Advanced Persistent Threats (2015-2022)" The research focuses on the field of cybersecurity, specifically exploring Advanced Persistent Threats (APTs) and their impact on digital systems. The thesis investigates the exponential increase in cyber-attacks, analyzes APT methods, and derives indicative protection measures. The study aims to contribute to the development of effective defenses against APTs.
 
 ## Abstract (EN)
 
@@ -64,3 +64,6 @@ patterns and develop protection measures against advanced persistent threats.
 
 ## Repository Contents
 'BSc_Thesis_Evgenios_Gkritsis_Advanced_Persistent_Threats.pdf': The PDF file containing the complete thesis document. 
+
+## Grade
+The thesis received a grade of 10/10 (Highest Distinction).
